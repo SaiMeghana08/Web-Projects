@@ -1,0 +1,52 @@
+@media only screen and (min-width:200px) and (max-width:575px){
+    .btn-outer{
+        position:fixed;
+        bottom:0px;
+        width:100%;
+        background-color: white;
+        padding:5px 0px;
+       
+        left:0px;
+        justify-content:center !important;
+    }
+    .whatsappbtn,.callbtn{
+        font-size:14px;
+        padding:7px 15px;
+    }
+    .head h1{
+        font-weight:800;
+        font-size:32px;
+        text-align:center;
+        line-height:34px;
+
+    }
+    .head br{
+        display:none;
+    }
+    .head p,.head ul li{
+        font-size:18px;
+        line-height:35px;
+    }
+    .block{
+        flex-direction:column;
+    }
+    .bookbtn,.download{
+        width:100%;
+       
+    }
+    .div2 h2{
+        font-size:20px;
+        font-weight:600px;
+        color:#0ACEFE;
+    }
+    .highlights-section h2{
+        font-size:36px;
+    }
+
+}
+
+@media (min-width: 1400px) {
+    .container, .container-lg, .container-md, .container-sm,.container-xl,.conatiner-xxl {
+        max-width: 1170px;
+    }
+}

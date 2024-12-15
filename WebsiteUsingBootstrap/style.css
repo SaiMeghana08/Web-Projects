@@ -1,0 +1,156 @@
+*{
+    font-family: "Inter", sans-serif;
+}
+
+.whatsappbtn{
+    border:1px solid #27AE60; 
+    color:#27AE60;
+    font-size:16px; 
+}
+.whatsappbtn i{
+   color:#27AE60;
+}
+.whatsappbtn:hover{
+    border:1px solid #27AE60; 
+    color:#27AE60;
+}
+.callbtn{
+    color:white;
+    background:linear-gradient(to right,#0ACEFE,#2699FB);
+    
+}
+.head h1 span{
+    color:#2699FB;
+}
+.head h1{
+    font-weight:800;
+    font-size:50px;
+
+}
+.head p{
+    font-size:22px;
+}
+.head ul li{
+    font-size:20px;
+    line-height:38px;
+    list-style-type:none;
+}
+.head i{
+    color:#2699FB;
+}
+
+.bookbtn{
+    color:white;
+    border:1px solid #2699FB;
+    border-radius:8px;
+    background: linear-gradient(to right,#0ACEFE,#2699FB);
+}
+.download{
+    border:1px solid black;
+    border-radius:8px;
+}
+.form-1{
+    padding-top:40px;
+    padding-left:20px;
+    padding-right:20px;
+    padding-bottom:20px;
+
+}
+.form-1 h3{
+    font-size:30px;
+    font-weight:600;
+}
+.form-1 p{
+    font-size:16px;
+}
+.btn-1{
+    width:100%;
+    padding:10px;
+    color:white;
+    background: linear-gradient(to right,#0ACEFE,#2699FB);
+}
+.div2 h2{
+    font-size:30px;
+    font-weight:800px;
+    color:#0ACEFE;
+}
+.highlights-section{
+    background-color:#F7FAFF;
+}
+
+.highlights-section h2{
+    color:#0A2134;
+    font-size:36px;
+    font-weight:700;
+}
+.highlights-section p{
+    font-size:16px;
+}
+.box h4{
+    font-weight: 600;
+}
+.box p{
+    font-size:14px;
+    
+}
+.box i{
+    font-size: 50px;
+    color:#25a5e9;
+}
+.box1 h4{
+    font-weight: 600;
+}
+.box1 p{
+    font-size:14px;
+}
+.box1 i{
+    font-size:50px;
+    color:rgb(237, 186, 92);
+}
+.box2 h4{
+    font-weight: 600;
+}
+.box2 p{
+    font-size:14px;
+    
+}
+.box2 i{
+    font-size:50px;
+    color:rgb(205, 118, 249);
+}
+.box3 h4{
+    font-weight: 600;
+}
+.box3 p{
+    font-size:14px;
+    
+}
+.box3 i{
+    font-size:50px;
+    color:rgb(144, 235, 164);
+}
+.box4 h4{
+    font-weight: 600;
+}
+.box4 p{
+    font-size:14px;
+    
+}
+.box4 i{
+    font-size:50px;
+    color:rgb(110, 90, 240);
+}
+.box5 h4{
+    font-weight: 600;
+}
+.box5 p{
+    font-size:14px;
+    
+}
+.box5 i{
+    font-size:50px;
+    color:orange;
+}
+.dense button{
+    background-color:#2699FB;
+}
